@@ -1,3 +1,7 @@
+# Anonymized-push deploy key — NEVER commit (local push transport only)
+deploy_key
+deploy_key.pub
+
 # MakeCode
 built
 node_modules

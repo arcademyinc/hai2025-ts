@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+expected="bot@arcademy.net"
+actual=$(git config user.email)
+if [ "$actual" != "$expected" ]; then
+  echo "⛔ Commit blocked: identity must be $expected. Run ./scripts/setup.sh"
+  exit 1
+fi
