@@ -31,7 +31,7 @@
   "haiInputs.craftWith|block": "צור עם %n",
   "haiInputs|block": "שעת ה-AI",
   "hai|block": "שעת ה-AI",
-  "{id:category}Ai": "Ai",
-  "{id:category}Hai": "Hai",
-  "{id:category}HaiInputs": "HaiInputs"
+  "{id:category}Ai": "שעת ה-AI Python",
+  "{id:category}Hai": "שעת ה-AI",
+  "{id:category}HaiInputs": "שעת ה-AI"
 }
