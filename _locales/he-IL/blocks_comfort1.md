@@ -2,13 +2,13 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# הכנת מספריים
+# הכנת מזמרה
 
 ## שלב 1
-אמן את הסוכן כיצד להכין מספריים. לחץ על הנורה לקבלת עזרה או על הפעלה כשתהיה מוכן להמשיך.
+אמן את הסוכן כיצד להכין מזמרה. לחץ על הנורה לקבלת עזרה או על הפעלה כשתהיה מוכן להמשיך.
 
 #### ~ tutorialhint 
-תבנית מספריים
+תבנית מזמרה
 ![Craft Shears](http://minecraft.makecode.com/hour-of-code/2025/blocks/img/shears_crafting.png "Craft Shears")
 
 ```ghost
