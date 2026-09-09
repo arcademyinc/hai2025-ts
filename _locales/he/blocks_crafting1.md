@@ -2,13 +2,13 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# שולחן עבודה
+# שולחן מלאכה
 
 ## שלב 1
-אמן את הסוכן כיצד להכין שולחן עבודה. לחץ על הנורה לקבלת עזרה או על הפעלה כשתהיה מוכן להמשיך. 
+אמן את הסוכן כיצד להכין שולחן מלאכה. לחץ על הנורה לקבלת עזרה או על הפעלה כשתהיה מוכן להמשיך. 
 
 #### ~ tutorialhint 
-תבנית שולחן עבודה
+תבנית שולחן מלאכה
 ![Craft Crafting Table](http://minecraft.makecode.com/hour-of-code/2025/blocks/img/bench_crafting.png "Craft Crafting Table")
 
 ```ghost

@@ -2,13 +2,13 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# הכנת כבשנים
+# הכנת תנורים
 
 ## שלב 1
-אמן את הסוכן כיצד להכין כבשן. לחץ על הנורה לקבלת עזרה או על הפעלה כשתהיה מוכן להמשיך.
+אמן את הסוכן כיצד להכין תנור. לחץ על הנורה לקבלת עזרה או על הפעלה כשתהיה מוכן להמשיך.
 
 #### ~ tutorialhint 
-תבנית כבשן
+תבנית תנור
 ![Craft Furnace](http://minecraft.makecode.com/hour-of-code/2025/blocks/img/furnace_crafting.png "Craft Furnace")
 
 ```ghost
